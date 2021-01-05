@@ -8,8 +8,8 @@ namespace Benday.CalculatorDemo.UnitTests
         [TestMethod]
         public void Add()
         {
-            // arrange
-            var systemUnderTest = new Calculator();
+            // arrange
+            var systemUnderTest = new Calculator();
             int value1 = 2;
             int value2 = 3;
             int expected = 5;
