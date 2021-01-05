@@ -1,3 +1,4 @@
+using Benday.CalculatorDemo.Api;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace Benday.CalculatorDemo.UnitTests
